@@ -1,0 +1,37 @@
+# =========================
+# Environnements Virtuels
+# =========================
+venv/
+.venv/
+env/
+ENV/
+
+# =========================
+# Fichiers compilés Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Variables d'environnement
+# =========================
+.env
+.env.local
+
+# =========================
+# Fichiers de données / Logs
+# =========================
+*.log
+# Décommentez la ligne ci-dessous si le fichier `vols_ete_2026.json`
+# est généré automatiquement par votre script et ne doit pas être versionné :
+# *.json
+
+# =========================
+# Fichiers OS et Éditeurs
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

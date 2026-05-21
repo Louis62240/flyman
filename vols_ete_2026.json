@@ -1,0 +1,2362 @@
+[
+    {
+        "depart": "Brussels",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 55.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "13.06.2026 > 15.06.2026",
+        "destination": "Milan MXP Milan (Malpensa)",
+        "h_aller": "08:40",
+        "h_retour": "20:35",
+        "prix": 62.07,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=13.06.2026&arrdate=15.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Milan MXP Milan (Malpensa)",
+        "h_aller": "06:20",
+        "h_retour": "20:45",
+        "prix": 67.57,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "06.06.2026 > 08.06.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 71.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.06.2026&arrdate=08.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "20.06.2026 > 22.06.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 71.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=20.06.2026&arrdate=22.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "13.06.2026 > 15.06.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 71.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=13.06.2026&arrdate=15.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.09.2026 > 21.09.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 71.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.09.2026&arrdate=21.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:00",
+        "prix": 72.94,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 74.51,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.09.2026 > 28.09.2026",
+        "destination": "Milan MXP Milan (Malpensa)",
+        "h_aller": "08:40",
+        "h_retour": "20:35",
+        "prix": 74.57,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.09.2026&arrdate=28.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.09.2026 > 07.09.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 74.63,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.09.2026&arrdate=07.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.09.2026 > 21.09.2026",
+        "destination": "Milan MXP Milan (Malpensa)",
+        "h_aller": "08:40",
+        "h_retour": "20:35",
+        "prix": 75.07,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.09.2026&arrdate=21.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "10.07.2026 > 12.07.2026",
+        "destination": "Manchester",
+        "h_aller": "06:10",
+        "h_retour": "19:10",
+        "prix": 79.74,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=10.07.2026&arrdate=12.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 80.05,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "06.11.2026 > 08.11.2026",
+        "destination": "Manchester",
+        "h_aller": "11:30",
+        "h_retour": "19:40",
+        "prix": 81.64,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.11.2026&arrdate=08.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "07.11.2026 > 09.11.2026",
+        "destination": "Manchester",
+        "h_aller": "07:25",
+        "h_retour": "19:50",
+        "prix": 81.64,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.11.2026&arrdate=09.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "02.10.2026 > 04.10.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 82.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=02.10.2026&arrdate=04.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "02.10.2026 > 04.10.2026",
+        "destination": "Genova",
+        "h_aller": "11:45",
+        "h_retour": "20:40",
+        "prix": 83.86,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=02.10.2026&arrdate=04.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 84.44,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "25.09.2026 > 27.09.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 84.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.09.2026&arrdate=27.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.09.2026 > 07.09.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "22:15",
+        "prix": 85.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.09.2026&arrdate=07.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.09.2026 > 14.09.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "22:15",
+        "prix": 85.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.09.2026&arrdate=14.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.09.2026 > 21.09.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "22:15",
+        "prix": 85.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.09.2026&arrdate=21.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "11:35",
+        "h_retour": "19:00",
+        "prix": 85.94,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 86.11,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.07.2026 > 13.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 87.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.07.2026&arrdate=13.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 87.73,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:00",
+        "prix": 87.78,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Nice",
+        "h_aller": "06:05",
+        "h_retour": "21:15",
+        "prix": 87.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 87.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 87.99,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Venice VCE Venice (Marco Polo)",
+        "h_aller": "07:00",
+        "h_retour": "21:40",
+        "prix": 88.07,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Venice VCE Venice (Marco Polo)",
+        "h_aller": "07:00",
+        "h_retour": "21:40",
+        "prix": 88.57,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.09.2026 > 14.09.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 89.49,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.09.2026&arrdate=14.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 89.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 90.99,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "16.10.2026 > 18.10.2026",
+        "destination": "Genova",
+        "h_aller": "11:45",
+        "h_retour": "20:40",
+        "prix": 91.78,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=16.10.2026&arrdate=18.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 91.99,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Nice",
+        "h_aller": "06:05",
+        "h_retour": "21:15",
+        "prix": 92.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "09.10.2026 > 11.10.2026",
+        "destination": "Genova",
+        "h_aller": "11:45",
+        "h_retour": "20:40",
+        "prix": 92.39,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=09.10.2026&arrdate=11.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 92.73,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 92.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "10.07.2026 > 12.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 93.18,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=10.07.2026&arrdate=12.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 93.27,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 93.82,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "29.08.2026 > 31.08.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "22:15",
+        "prix": 93.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=29.08.2026&arrdate=31.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 94.01,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 94.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "10.07.2026 > 12.07.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 95.69,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=10.07.2026&arrdate=12.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "10.07.2026 > 12.07.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 95.93,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=10.07.2026&arrdate=12.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "06.06.2026 > 08.06.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "22:15",
+        "prix": 96.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.06.2026&arrdate=08.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "23.10.2026 > 25.10.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 96.37,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=23.10.2026&arrdate=25.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "09.10.2026 > 11.10.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 96.4,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=09.10.2026&arrdate=11.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.09.2026 > 21.09.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 96.71,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.09.2026&arrdate=21.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 96.78,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 97.16,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 97.44,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.09.2026 > 21.09.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 97.52,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.09.2026&arrdate=21.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 97.54,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "21:50",
+        "prix": 98.6,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 98.7,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "29.08.2026 > 31.08.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 99.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=29.08.2026&arrdate=31.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 99.45,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 99.48,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.09.2026 > 14.09.2026",
+        "destination": "Krakow",
+        "h_aller": "07:20",
+        "h_retour": "21:15",
+        "prix": 99.7,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.09.2026&arrdate=14.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Genova",
+        "h_aller": "11:45",
+        "h_retour": "20:40",
+        "prix": 99.89,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.07.2026 > 13.07.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 100.14,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.07.2026&arrdate=13.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 100.14,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 100.4,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.09.2026 > 28.09.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 100.67,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.09.2026&arrdate=28.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.07.2026 > 20.07.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "21:35",
+        "prix": 100.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.07.2026&arrdate=20.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.07.2026 > 06.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 100.98,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.07.2026&arrdate=06.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 101.23,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 101.26,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 101.99,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Krakow",
+        "h_aller": "07:20",
+        "h_retour": "20:35",
+        "prix": 102.19,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "London LGW London (Gatwick)",
+        "h_aller": "07:10",
+        "h_retour": "18:00",
+        "prix": 102.32,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "13.06.2026 > 15.06.2026",
+        "destination": "London LGW London (Gatwick)",
+        "h_aller": "09:55",
+        "h_retour": "19:35",
+        "prix": 102.32,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=13.06.2026&arrdate=15.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Venice VCE Venice (Marco Polo)",
+        "h_aller": "07:00",
+        "h_retour": "21:40",
+        "prix": 103.07,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:00",
+        "prix": 103.7,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.07.2026 > 20.07.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 103.97,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.07.2026&arrdate=20.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "06.11.2026 > 08.11.2026",
+        "destination": "Turin",
+        "h_aller": "08:05",
+        "h_retour": "21:10",
+        "prix": 103.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.11.2026&arrdate=08.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 104.58,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.09.2026 > 14.09.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 104.6,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.09.2026&arrdate=14.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 104.61,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Krakow",
+        "h_aller": "07:20",
+        "h_retour": "20:35",
+        "prix": 104.69,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.07.2026 > 13.07.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 104.71,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.07.2026&arrdate=13.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.09.2026 > 28.09.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 105.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.09.2026&arrdate=28.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 105.14,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "02.10.2026 > 04.10.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 106.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=02.10.2026&arrdate=04.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 107.06,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 107.2,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 107.94,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 108.01,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.09.2026 > 07.09.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 108.02,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.09.2026&arrdate=07.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 108.28,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 109.16,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.07.2026 > 06.07.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 109.49,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.07.2026&arrdate=06.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 109.49,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Edinburgh",
+        "h_aller": "07:00",
+        "h_retour": "19:30",
+        "prix": 109.55,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 110.72,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Genova",
+        "h_aller": "11:45",
+        "h_retour": "20:40",
+        "prix": 110.73,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 110.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 110.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 111.33,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Nice",
+        "h_aller": "06:05",
+        "h_retour": "21:15",
+        "prix": 111.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Nice",
+        "h_aller": "06:05",
+        "h_retour": "21:15",
+        "prix": 111.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 111.4,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Nice",
+        "h_aller": "06:05",
+        "h_retour": "21:15",
+        "prix": 111.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "08.08.2026 > 10.08.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "21:35",
+        "prix": 111.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=08.08.2026&arrdate=10.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 111.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 112.49,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 112.52,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "20.06.2026 > 22.06.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 112.7,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=20.06.2026&arrdate=22.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "29.08.2026 > 31.08.2026",
+        "destination": "Krakow",
+        "h_aller": "07:00",
+        "h_retour": "21:15",
+        "prix": 113.42,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=29.08.2026&arrdate=31.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "15.08.2026 > 17.08.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "21:35",
+        "prix": 113.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=15.08.2026&arrdate=17.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.09.2026 > 28.09.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "22:15",
+        "prix": 113.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.09.2026&arrdate=28.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "09.10.2026 > 11.10.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 114.07,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=09.10.2026&arrdate=11.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Budapest",
+        "h_aller": "07:05",
+        "h_retour": "21:20",
+        "prix": 114.64,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "15.08.2026 > 17.08.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 114.65,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=15.08.2026&arrdate=17.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "13.06.2026 > 15.06.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 115.63,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=13.06.2026&arrdate=15.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 116.85,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 116.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "16.10.2026 > 18.10.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 117.06,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=16.10.2026&arrdate=18.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Genova",
+        "h_aller": "11:45",
+        "h_retour": "20:40",
+        "prix": 117.27,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "25.07.2026 > 27.07.2026",
+        "destination": "Nice",
+        "h_aller": "06:10",
+        "h_retour": "21:35",
+        "prix": 117.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.07.2026&arrdate=27.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "20.06.2026 > 22.06.2026",
+        "destination": "London LGW London (Gatwick)",
+        "h_aller": "09:55",
+        "h_retour": "18:15",
+        "prix": 117.41,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=20.06.2026&arrdate=22.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 117.7,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "07.11.2026 > 09.11.2026",
+        "destination": "Milan BGY Milan (Bergamo)",
+        "h_aller": "11:15",
+        "h_retour": "21:00",
+        "prix": 117.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.11.2026&arrdate=09.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 118.08,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 118.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Nice",
+        "h_aller": "06:05",
+        "h_retour": "21:35",
+        "prix": 118.36,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "20.06.2026 > 22.06.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 118.74,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=20.06.2026&arrdate=22.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "13.06.2026 > 15.06.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 118.96,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=13.06.2026&arrdate=15.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "06.11.2026 > 08.11.2026",
+        "destination": "Milan BGY Milan (Bergamo)",
+        "h_aller": "09:35",
+        "h_retour": "19:10",
+        "prix": 118.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.11.2026&arrdate=08.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 120.22,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 121.49,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "25.07.2026 > 27.07.2026",
+        "destination": "Glasgow",
+        "h_aller": "09:25",
+        "h_retour": "20:45",
+        "prix": 122.03,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.07.2026&arrdate=27.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "Manchester",
+        "h_aller": "06:10",
+        "h_retour": "19:10",
+        "prix": 123.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Edinburgh",
+        "h_aller": "07:00",
+        "h_retour": "19:30",
+        "prix": 124.33,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "09.10.2026 > 11.10.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 124.74,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=09.10.2026&arrdate=11.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "16.10.2026 > 18.10.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 124.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=16.10.2026&arrdate=18.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "06.11.2026 > 08.11.2026",
+        "destination": "Marseille",
+        "h_aller": "06:40",
+        "h_retour": "18:50",
+        "prix": 124.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.11.2026&arrdate=08.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "25.09.2026 > 27.09.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 125.41,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.09.2026&arrdate=27.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "Manchester",
+        "h_aller": "06:10",
+        "h_retour": "19:10",
+        "prix": 125.87,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 125.93,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 126.1,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "25.07.2026 > 27.07.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 126.73,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.07.2026&arrdate=27.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 129.97,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "04.09.2026 > 06.09.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 130.64,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.09.2026&arrdate=06.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "10.07.2026 > 12.07.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 130.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=10.07.2026&arrdate=12.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 130.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 131.1,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "08.08.2026 > 10.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 131.6,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=08.08.2026&arrdate=10.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 131.8,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.09.2026 > 07.09.2026",
+        "destination": "Krakow",
+        "h_aller": "07:20",
+        "h_retour": "21:15",
+        "prix": 132.11,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.09.2026&arrdate=07.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "Manchester",
+        "h_aller": "09:25",
+        "h_retour": "19:10",
+        "prix": 133.33,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 134.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 135.31,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 135.6,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Budapest",
+        "h_aller": "07:05",
+        "h_retour": "21:20",
+        "prix": 137.12,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "08.08.2026 > 10.08.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 137.26,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=08.08.2026&arrdate=10.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 137.86,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "29.08.2026 > 31.08.2026",
+        "destination": "Bristol",
+        "h_aller": "09:05",
+        "h_retour": "19:35",
+        "prix": 138.2,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=29.08.2026&arrdate=31.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "02.10.2026 > 04.10.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 138.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=02.10.2026&arrdate=04.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:00",
+        "prix": 139.2,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "19.09.2026 > 21.09.2026",
+        "destination": "Marrakech",
+        "h_aller": "06:00",
+        "h_retour": "19:10",
+        "prix": 139.68,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.09.2026&arrdate=21.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "12.09.2026 > 14.09.2026",
+        "destination": "London LGW London (Gatwick)",
+        "h_aller": "09:55",
+        "h_retour": "18:15",
+        "prix": 139.71,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.09.2026&arrdate=14.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Edinburgh",
+        "h_aller": "07:00",
+        "h_retour": "19:30",
+        "prix": 139.73,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 139.92,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "01.08.2026 > 03.08.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:40",
+        "prix": 141.05,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=01.08.2026&arrdate=03.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 141.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "06.06.2026 > 08.06.2026",
+        "destination": "Krakow",
+        "h_aller": "07:20",
+        "h_retour": "21:15",
+        "prix": 142.72,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.06.2026&arrdate=08.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "01.08.2026 > 03.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 142.87,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=01.08.2026&arrdate=03.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.07.2026 > 20.07.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 144.26,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.07.2026&arrdate=20.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "London LTN London (Luton)",
+        "h_aller": "09:05",
+        "h_retour": "19:00",
+        "prix": 144.59,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 144.87,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "12.06.2026 > 14.06.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 145.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=12.06.2026&arrdate=14.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "Manchester",
+        "h_aller": "06:10",
+        "h_retour": "19:10",
+        "prix": 146.22,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 146.6,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Budapest",
+        "h_aller": "07:05",
+        "h_retour": "21:20",
+        "prix": 146.84,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "16.10.2026 > 18.10.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 146.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=16.10.2026&arrdate=18.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "18.09.2026 > 20.09.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 147.64,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.09.2026&arrdate=20.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Edinburgh",
+        "h_aller": "07:00",
+        "h_retour": "19:30",
+        "prix": 147.94,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "15.08.2026 > 17.08.2026",
+        "destination": "London LGW London (Gatwick)",
+        "h_aller": "09:55",
+        "h_retour": "18:15",
+        "prix": 148.22,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=15.08.2026&arrdate=17.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.07.2026 > 20.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 148.7,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.07.2026&arrdate=20.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 148.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "05.06.2026 > 07.06.2026",
+        "destination": "Edinburgh",
+        "h_aller": "07:00",
+        "h_retour": "19:30",
+        "prix": 149.79,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=05.06.2026&arrdate=07.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 149.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "28.08.2026 > 30.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 150.57,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=28.08.2026&arrdate=30.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "25.09.2026 > 27.09.2026",
+        "destination": "Genova",
+        "h_aller": "11:45",
+        "h_retour": "20:40",
+        "prix": 152.06,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.09.2026&arrdate=27.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "25.07.2026 > 27.07.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 152.52,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.07.2026&arrdate=27.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "06.11.2026 > 08.11.2026",
+        "destination": "Madrid",
+        "h_aller": "09:05",
+        "h_retour": "20:25",
+        "prix": 153.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.11.2026&arrdate=08.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "19.06.2026 > 21.06.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 154.25,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=19.06.2026&arrdate=21.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "01.08.2026 > 03.08.2026",
+        "destination": "Glasgow",
+        "h_aller": "09:25",
+        "h_retour": "20:45",
+        "prix": 154.37,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=01.08.2026&arrdate=03.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 154.77,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 155.13,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 155.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 156.33,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "25.07.2026 > 27.07.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 157.72,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.07.2026&arrdate=27.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "11.09.2026 > 13.09.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 157.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.09.2026&arrdate=13.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "11.07.2026 > 13.07.2026",
+        "destination": "Glasgow",
+        "h_aller": "09:25",
+        "h_retour": "20:45",
+        "prix": 158.75,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=11.07.2026&arrdate=13.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 158.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 159.14,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "15.08.2026 > 17.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 159.64,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=15.08.2026&arrdate=17.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 159.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "26.06.2026 > 28.06.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 160.1,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=26.06.2026&arrdate=28.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "10.07.2026 > 12.07.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 160.6,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=10.07.2026&arrdate=12.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "London SEN London (Southend)",
+        "h_aller": "10:40",
+        "h_retour": "19:50",
+        "prix": 161.96,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "06.11.2026 > 08.11.2026",
+        "destination": "Palermo",
+        "h_aller": "07:05",
+        "h_retour": "18:30",
+        "prix": 161.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.11.2026&arrdate=08.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "15.08.2026 > 17.08.2026",
+        "destination": "Glasgow",
+        "h_aller": "09:25",
+        "h_retour": "20:45",
+        "prix": 163.16,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=15.08.2026&arrdate=17.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "01.08.2026 > 03.08.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 164.02,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=01.08.2026&arrdate=03.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "18.07.2026 > 20.07.2026",
+        "destination": "Glasgow",
+        "h_aller": "09:25",
+        "h_retour": "20:45",
+        "prix": 165.68,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=18.07.2026&arrdate=20.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "25.07.2026 > 27.07.2026",
+        "destination": "London LGW London (Gatwick)",
+        "h_aller": "09:55",
+        "h_retour": "18:15",
+        "prix": 166.45,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.07.2026&arrdate=27.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 167.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "07.08.2026 > 09.08.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 168.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.08.2026&arrdate=09.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "Bristol",
+        "h_aller": "10:05",
+        "h_retour": "19:35",
+        "prix": 169.73,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "06.06.2026 > 08.06.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 170.68,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.06.2026&arrdate=08.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "10.07.2026 > 12.07.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 171.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=10.07.2026&arrdate=12.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "06.06.2026 > 08.06.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 172.46,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.06.2026&arrdate=08.06.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "25.09.2026 > 27.09.2026",
+        "destination": "Barcelona REU Barcelona (Reus)",
+        "h_aller": "06:40",
+        "h_retour": "20:10",
+        "prix": 173.52,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=25.09.2026&arrdate=27.09.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "29.08.2026 > 31.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "10:45",
+        "h_retour": "19:30",
+        "prix": 174.88,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=29.08.2026&arrdate=31.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "08.08.2026 > 10.08.2026",
+        "destination": "Glasgow",
+        "h_aller": "09:25",
+        "h_retour": "20:45",
+        "prix": 176.85,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=08.08.2026&arrdate=10.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "21.08.2026 > 23.08.2026",
+        "destination": "Birmingham",
+        "h_aller": "11:05",
+        "h_retour": "18:55",
+        "prix": 179.23,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=21.08.2026&arrdate=23.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 180.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "29.08.2026 > 31.08.2026",
+        "destination": "Manchester",
+        "h_aller": "10:00",
+        "h_retour": "19:00",
+        "prix": 181.12,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=29.08.2026&arrdate=31.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "08.08.2026 > 10.08.2026",
+        "destination": "London LGW London (Gatwick)",
+        "h_aller": "09:55",
+        "h_retour": "18:15",
+        "prix": 185.21,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=08.08.2026&arrdate=10.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "14.08.2026 > 16.08.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 187.1,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=14.08.2026&arrdate=16.08.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "24.07.2026 > 26.07.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 189.6,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.07.2026&arrdate=26.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "17.07.2026 > 19.07.2026",
+        "destination": "Berlin BER Berlin (Brandenburg)",
+        "h_aller": "08:35",
+        "h_retour": "18:45",
+        "prix": 190.1,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=17.07.2026&arrdate=19.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "24.10.2026 > 26.10.2026",
+        "destination": "Krakow",
+        "h_aller": "09:30",
+        "h_retour": "20:25",
+        "prix": 196.11,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=24.10.2026&arrdate=26.10.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Paris",
+        "id_date": "04.07.2026 > 06.07.2026",
+        "destination": "Glasgow",
+        "h_aller": "09:25",
+        "h_retour": "20:45",
+        "prix": 204.4,
+        "compagnie": "easyJet",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Paris+%5BCDG%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=04.07.2026&arrdate=06.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "07.11.2026 > 09.11.2026",
+        "destination": "Palermo",
+        "h_aller": "06:20",
+        "h_retour": "20:25",
+        "prix": 214.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=07.11.2026&arrdate=09.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "06.11.2026 > 08.11.2026",
+        "destination": "Malaga",
+        "h_aller": "09:35",
+        "h_retour": "20:05",
+        "prix": 221.98,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=06.11.2026&arrdate=08.11.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "Warsaw",
+        "h_aller": "06:30",
+        "h_retour": "19:10",
+        "prix": 254.19,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    },
+    {
+        "depart": "Brussels",
+        "id_date": "03.07.2026 > 05.07.2026",
+        "destination": "Helsinki",
+        "h_aller": "06:40",
+        "h_retour": "21:10",
+        "prix": 302.18,
+        "compagnie": "Ryanair",
+        "url_reservation": "https://www.azair.eu/azfin.php?tp=0&searchtype=nonflexi&adults=1&currency=EUR&isOneway=return&srcAirport=Brussels+%5BCRL%5D&dstAirport=Anywhere+%5BXXX%5D&depdate=03.07.2026&arrdate=05.07.2026&maxChng=0&minHourOutbound=0%3A00&maxHourOutbound=12%3A00&minHourInbound=18%3A00&maxHourInbound=24%3A00&resultSubmit=Search"
+    }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vols - Été 2026</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="logo-wrapper">
+    <img src="logo.png" alt="Logo" class="logo-img">
+</div>
+
+<div class="container">
+    <div class="d-flex justify-between align-center mb-4">
+        <h1>Vols - Week-end de 3 jours</h1>
+        <div id="status" class="text-muted fw-bold">Chargement...</div>
+    </div>
+
+    <div class="month-nav d-flex justify-between align-center mb-4">
+        <button id="btn-prev" class="btn-nav" onclick="changeMonth(-1)">← Mois précédent</button>
+        <div id="current-month-display" class="month-display">...</div>
+        <button id="btn-next" class="btn-nav" onclick="changeMonth(1)">Mois suivant →</button>
+    </div>
+
+    <div class="filters-panel p-3 mb-4 d-flex" style="gap: 16px; flex-wrap: wrap;">
+
+        <div class="filter-group d-flex flex-column gap-1" style="flex: 1; min-width: 150px;">
+            <label for="price-filter" class="text-small fw-bold">Prix maximum : <span id="price-val" class="text-success">0</span> €</label>
+            <input type="range" id="price-filter" class="form-range" min="0" max="1000" step="5" value="1000" oninput="updatePriceLabel()" onchange="applyFilters()">
+        </div>
+
+        <div class="filter-group d-flex flex-column gap-1" style="flex: 1; min-width: 150px;">
+            <label for="depart-filter" class="text-small fw-bold">Aéroport de départ</label>
+            <select id="depart-filter" class="form-select" onchange="applyFilters()">
+                <option value="all">Tous les aéroports</option>
+            </select>
+        </div>
+
+        <div class="filter-group d-flex flex-column gap-1" style="flex: 1; min-width: 150px;">
+            <label for="airline-filter" class="text-small fw-bold">Compagnie aérienne</label>
+            <select id="airline-filter" class="form-select" onchange="applyFilters()">
+                <option value="all">Toutes les compagnies</option>
+            </select>
+        </div>
+
+    </div>
+
+    <div id="grid"></div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
